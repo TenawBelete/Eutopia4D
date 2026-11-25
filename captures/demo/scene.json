@@ -1,0 +1,35 @@
+{
+  "material": "demo.mtl",
+  "mesh": "demo.obj",
+  "source": "Original synthetic navigation sample",
+  "frames": 2,
+  "fps": 1,
+  "cameras": [
+    {
+      "position": [
+        0,
+        1.6,
+        3
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "position": [
+        0,
+        1.6,
+        1
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}
